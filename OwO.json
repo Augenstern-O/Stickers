@@ -1,0 +1,2091 @@
+{
+    "Emoji": {
+        "type": "emoji",
+        "container": [
+            {
+                "icon": "😀",
+                "text": ""
+            },
+            {
+                "icon": "😃",
+                "text": ""
+            },
+            {
+                "icon": "😄",
+                "text": ""
+            },
+            {
+                "icon": "😁",
+                "text": ""
+            },
+            {
+                "icon": "😁",
+                "text": ""
+            },
+            {
+                "icon": "😅",
+                "text": ""
+            },
+            {
+                "icon": "🤣",
+                "text": ""
+            },
+            {
+                "icon": "😂",
+                "text": ""
+            },
+            {
+                "icon": "🙂",
+                "text": ""
+            },
+            {
+                "icon": "🙃",
+                "text": ""
+            },
+            {
+                "icon": "🫠",
+                "text": ""
+            },
+            {
+                "icon": "😉",
+                "text": ""
+            },
+            {
+                "icon": "😊",
+                "text": ""
+            },
+            {
+                "icon": "😇",
+                "text": ""
+            },
+            {
+                "icon": "🥰",
+                "text": ""
+            },
+            {
+                "icon": "😍",
+                "text": ""
+            },
+            {
+                "icon": "🤩",
+                "text": ""
+            },
+            {
+                "icon": "😘",
+                "text": ""
+            },
+            {
+                "icon": "😗",
+                "text": ""
+            },
+            {
+                "icon": "☺️",
+                "text": ""
+            },
+            {
+                "icon": "😚",
+                "text": ""
+            },
+            {
+                "icon": "😙",
+                "text": ""
+            },
+            {
+                "icon": "🥲",
+                "text": ""
+            },
+            {
+                "icon": "😋",
+                "text": ""
+            },
+            {
+                "icon": "😛",
+                "text": ""
+            },
+            {
+                "icon": "😜",
+                "text": ""
+            },
+            {
+                "icon": "🤪",
+                "text": ""
+            },
+            {
+                "icon": "😝",
+                "text": ""
+            },
+            {
+                "icon": "🤑",
+                "text": ""
+            },
+            {
+                "icon": "🤗",
+                "text": ""
+            },
+            {
+                "icon": "🤭",
+                "text": ""
+            },
+            {
+                "icon": "🫢",
+                "text": ""
+            },
+            {
+                "icon": "🫣",
+                "text": ""
+            },
+            {
+                "icon": "🤫",
+                "text": ""
+            },
+            {
+                "icon": "🤔",
+                "text": ""
+            },
+            {
+                "icon": "🫡",
+                "text": ""
+            },
+            {
+                "icon": "🤐",
+                "text": ""
+            },
+            {
+                "icon": "🤨",
+                "text": ""
+            },
+            {
+                "icon": "😐",
+                "text": ""
+            },
+            {
+                "icon": "😑",
+                "text": ""
+            },
+            {
+                "icon": "😶",
+                "text": ""
+            },
+            {
+                "icon": "🫥",
+                "text": ""
+            },
+            {
+                "icon": "😶‍🌫️",
+                "text": ""
+            },
+            {
+                "icon": "😏",
+                "text": ""
+            },
+            {
+                "icon": "😒",
+                "text": ""
+            },
+            {
+                "icon": "🙄",
+                "text": ""
+            },
+            {
+                "icon": "😬",
+                "text": ""
+            },
+            {
+                "icon": "😮‍💨",
+                "text": ""
+            },
+            {
+                "icon": "🤥",
+                "text": ""
+            },
+            {
+                "icon": "🫨",
+                "text": ""
+            },
+            {
+                "icon": "😌",
+                "text": ""
+            },
+            {
+                "icon": "😔",
+                "text": ""
+            },
+            {
+                "icon": "😪",
+                "text": ""
+            },
+            {
+                "icon": "🤤",
+                "text": ""
+            },
+            {
+                "icon": "😴",
+                "text": ""
+            },
+            {
+                "icon": "😷",
+                "text": ""
+            },
+            {
+                "icon": "🤒",
+                "text": ""
+            },
+            {
+                "icon": "🤕",
+                "text": ""
+            },
+            {
+                "icon": "🤢",
+                "text": ""
+            },
+            {
+                "icon": "🤮",
+                "text": ""
+            },
+            {
+                "icon": "🤧",
+                "text": ""
+            },
+            {
+                "icon": "🥵",
+                "text": ""
+            },
+            {
+                "icon": "🥶",
+                "text": ""
+            },
+            {
+                "icon": "🥴",
+                "text": ""
+            },
+            {
+                "icon": "😵",
+                "text": ""
+            },
+            {
+                "icon": "😵‍💫",
+                "text": ""
+            },
+            {
+                "icon": "🤯",
+                "text": ""
+            },
+            {
+                "icon": "🤠",
+                "text": ""
+            },
+            {
+                "icon": "🥳",
+                "text": ""
+            },
+            {
+                "icon": "🥸",
+                "text": ""
+            },
+            {
+                "icon": "😎",
+                "text": ""
+            },
+            {
+                "icon": "🤓",
+                "text": ""
+            },
+            {
+                "icon": "🧐",
+                "text": ""
+            },
+            {
+                "icon": "😕",
+                "text": ""
+            },
+            {
+                "icon": "🫤",
+                "text": ""
+            },
+            {
+                "icon": "😟",
+                "text": ""
+            },
+            {
+                "icon": "🙁",
+                "text": ""
+            },
+            {
+                "icon": "☹️",
+                "text": ""
+            },
+            {
+                "icon": "😮",
+                "text": ""
+            },
+            {
+                "icon": "😯",
+                "text": ""
+            },
+            {
+                "icon": "😲",
+                "text": ""
+            },
+            {
+                "icon": "😳",
+                "text": ""
+            },
+            {
+                "icon": "🥺",
+                "text": ""
+            },
+            {
+                "icon": "🥹",
+                "text": ""
+            },
+            {
+                "icon": "😦",
+                "text": ""
+            },
+            {
+                "icon": "😧",
+                "text": ""
+            },
+            {
+                "icon": "😨",
+                "text": ""
+            },
+            {
+                "icon": "😰",
+                "text": ""
+            },
+            {
+                "icon": "😥",
+                "text": ""
+            },
+            {
+                "icon": "😢",
+                "text": ""
+            },
+            {
+                "icon": "😭",
+                "text": ""
+            },
+            {
+                "icon": "😱",
+                "text": ""
+            },
+            {
+                "icon": "😖",
+                "text": ""
+            },
+            {
+                "icon": "😣",
+                "text": ""
+            },
+            {
+                "icon": "😞",
+                "text": ""
+            },
+            {
+                "icon": "😓",
+                "text": ""
+            },
+            {
+                "icon": "😩",
+                "text": ""
+            },
+            {
+                "icon": "😫",
+                "text": ""
+            },
+            {
+                "icon": "🥱",
+                "text": ""
+            },
+            {
+                "icon": "😤",
+                "text": ""
+            },
+            {
+                "icon": "😡",
+                "text": ""
+            },
+            {
+                "icon": "😠",
+                "text": ""
+            },
+            {
+                "icon": "🤬",
+                "text": ""
+            },
+            {
+                "icon": "😈",
+                "text": ""
+            },
+            {
+                "icon": "👿",
+                "text": ""
+            },
+            {
+                "icon": "💀",
+                "text": ""
+            },
+            {
+                "icon": "☠️",
+                "text": ""
+            },
+            {
+                "icon": "💩",
+                "text": ""
+            },
+            {
+                "icon": "🤡",
+                "text": ""
+            },
+            {
+                "icon": "👹",
+                "text": ""
+            },
+            {
+                "icon": "👺",
+                "text": ""
+            },
+            {
+                "icon": "👻",
+                "text": ""
+            },
+            {
+                "icon": "👽",
+                "text": ""
+            },
+            {
+                "icon": "👾",
+                "text": ""
+            },
+            {
+                "icon": "🤖",
+                "text": ""
+            },
+            {
+                "icon": "😺",
+                "text": ""
+            },
+            {
+                "icon": "😸",
+                "text": ""
+            },
+            {
+                "icon": "😹",
+                "text": ""
+            },
+            {
+                "icon": "😻",
+                "text": ""
+            },
+            {
+                "icon": "😼",
+                "text": ""
+            },
+            {
+                "icon": "😽",
+                "text": ""
+            },
+            {
+                "icon": "🙀",
+                "text": ""
+            },
+            {
+                "icon": "😿",
+                "text": ""
+            },
+            {
+                "icon": "😾",
+                "text": ""
+            },
+            {
+                "icon": "🙈",
+                "text": ""
+            },
+            {
+                "icon": "🙉",
+                "text": ""
+            },
+            {
+                "icon": "🙊",
+                "text": ""
+            },
+            {
+                "icon": "💌",
+                "text": ""
+            },
+            {
+                "icon": "💘",
+                "text": ""
+            },
+            {
+                "icon": "💝",
+                "text": ""
+            },
+            {
+                "icon": "💗",
+                "text": ""
+            },
+            {
+                "icon": "💓",
+                "text": ""
+            },
+            {
+                "icon": "💞",
+                "text": ""
+            },
+            {
+                "icon": "💕",
+                "text": ""
+            },
+            {
+                "icon": "💟",
+                "text": ""
+            },
+            {
+                "icon": "❣️",
+                "text": ""
+            },
+            {
+                "icon": "💔",
+                "text": ""
+            },
+            {
+                "icon": "❤️‍🔥",
+                "text": ""
+            },
+            {
+                "icon": "❤️‍🩹",
+                "text": ""
+            },
+            {
+                "icon": "❤️",
+                "text": ""
+            },
+            {
+                "icon": "🩷",
+                "text": ""
+            },
+            {
+                "icon": "🧡",
+                "text": ""
+            },
+            {
+                "icon": "💛",
+                "text": ""
+            },
+            {
+                "icon": "💚",
+                "text": ""
+            },
+            {
+                "icon": "💙",
+                "text": ""
+            },
+            {
+                "icon": "🩵",
+                "text": ""
+            },
+            {
+                "icon": "💜",
+                "text": ""
+            },
+            {
+                "icon": "🤎",
+                "text": ""
+            },
+            {
+                "icon": "🖤",
+                "text": ""
+            },
+            {
+                "icon": "🩶",
+                "text": ""
+            },
+            {
+                "icon": "🤍",
+                "text": ""
+            },
+            {
+                "icon": "💋",
+                "text": ""
+            },
+            {
+                "icon": "💯",
+                "text": ""
+            },
+            {
+                "icon": "💢",
+                "text": ""
+            },
+            {
+                "icon": "💥",
+                "text": ""
+            },
+            {
+                "icon": "💫",
+                "text": ""
+            },
+            {
+                "icon": "💦",
+                "text": ""
+            },
+            {
+                "icon": "💨",
+                "text": ""
+            },
+            {
+                "icon": "🕳️",
+                "text": ""
+            },
+            {
+                "icon": "💬",
+                "text": ""
+            },
+            {
+                "icon": "👁️‍🗨️",
+                "text": ""
+            },
+            {
+                "icon": "🗨️",
+                "text": ""
+            },
+            {
+                "icon": "🗯️",
+                "text": ""
+            },
+            {
+                "icon": "💭",
+                "text": ""
+            },
+            {
+                "icon": "💤"
+            }
+        ]
+    },
+    "抖音": {
+        "type": "image",
+        "container": [
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/weixiao.png\">",
+                "text": "微笑"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/aimu.png\">",
+                "text": "色"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/liangdai.png\">",
+                "text": "呆住"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/kuye.png\">",
+                "text": "生气"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/koubi.png\">",
+                "text": "抠鼻"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/liulei.png\">",
+                "text": "流泪"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/wulian.png\">",
+                "text": "捂脸"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/fanu.png\">",
+                "text": "发怒"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/ziya.png\">",
+                "text": "呲牙"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/gaxiao.png\">",
+                "text": "尬笑"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/haixiu.png\">",
+                "text": "害羞"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/keai.png\">",
+                "text": "调皮"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/tianping.png\">",
+                "text": "舔屏"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/kan.png\">",
+                "text": "狗头"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/xin.png\">",
+                "text": "爱心"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/bixin.png\">",
+                "text": "比心"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/zan.png\">",
+                "text": "赞"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/guzhang.png\">",
+                "text": "鼓掌"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/qidao.png\">",
+                "text": "双手合十"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/baobaoni.png\">",
+                "text": "抱抱你"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/meigui.png\">",
+                "text": "玫瑰"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/gangaliuhan.png\">",
+                "text": "尴尬"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/chuoshoushou.png\">",
+                "text": "戳手手"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/xingxingyan.png\">",
+                "text": "星星眼"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/shamate.png\">",
+                "text": "杀马特"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/ganbei.png\">",
+                "text": "干杯"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/baojinziji.png\">",
+                "text": "抱紧自己"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/baibai.png\">",
+                "text": "拜拜"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/rehuale.png\">",
+                "text": "热化了"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/huanglianqidao.png\">",
+                "text": "祈祷"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/meng.png\">",
+                "text": "懵"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/jushou.png\">",
+                "text": "举手"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/jiagongde.png\">",
+                "text": "加功德"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/tanshou.png\">",
+                "text": "摊手"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/wuyuliuhan.png\">",
+                "text": "无语"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/xuhuohuaba.png\">",
+                "text": "续火花"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/dianhuo.png\">",
+                "text": "点火"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/kuku.png\">",
+                "text": "哭哭"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/tushexiaogou.png\">",
+                "text": "吐舌小狗"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/songhua.png\">",
+                "text": "送花"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/aixinshou.png\">",
+                "text": "爱心手"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/tietie.png\">",
+                "text": "贴贴"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/lingguangyishan.png\">",
+                "text": "灵机一动"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/ye.png\">",
+                "text": "耶"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/dalian.png\">",
+                "text": "打脸"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/daxiao.png\">",
+                "text": "大笑"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/jizhi.png\">",
+                "text": "还得是你"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/songxin.png\">",
+                "text": "送心"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/666.png\">",
+                "text": "666"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/bizui.png\">",
+                "text": "闭嘴"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/laikanwo.png\">",
+                "text": "关注我"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/yiqijiayou.png\">",
+                "text": "加油"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/haqian.png\">",
+                "text": "哈欠"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/zhenliang.png\">",
+                "text": "震惊"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/yun.png\">",
+                "text": "晕"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/shuai.png\">",
+                "text": "衰"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/kun.png\">",
+                "text": "困"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/what.png\">",
+                "text": "疑惑"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/qibuchengsheng.png\">",
+                "text": "泣不成声"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/xiaoguzhang.png\">",
+                "text": "真棒"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/dajinya.png\">",
+                "text": "大金牙"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/touxiao.png\">",
+                "text": "偷笑"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/shihua.png\">",
+                "text": "石化"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/sikao.png\">",
+                "text": "思考"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/tuxie.png\">",
+                "text": "吐血"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/kelian.png\">",
+                "text": "可怜"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/xu.png\">",
+                "text": "嘘"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/piezui.png\">",
+                "text": "撇嘴"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/xiaoku.png\">",
+                "text": "笑哭"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/jianxiao.png\">",
+                "text": "奸笑"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/deyi.png\">",
+                "text": "得意"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/hanxiao.png\">",
+                "text": "憨笑"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/huaixiao.png\">",
+                "text": "坏笑"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/zhuakuang.png\">",
+                "text": "抓狂"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/leiben.png\">",
+                "text": "泪奔"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/qian.png\">",
+                "text": "爱钱"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/kongju.png\">",
+                "text": "恐惧"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/xiao.png\">",
+                "text": "愉快"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/kuaikule.png\">",
+                "text": "快哭了"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/fanbaiyan.png\">",
+                "text": "翻白眼"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/hufen.png\">",
+                "text": "互粉"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/woxiangjingjing.png\">",
+                "text": "我想静静"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/weiqu.png\">",
+                "text": "委屈"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/bishi.png\">",
+                "text": "鄙视"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/feiwen.png\">",
+                "text": "爱心飞吻"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/zaijian.png\">",
+                "text": "再见"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/ziweibiezou.png\">",
+                "text": "别走"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/tingge.png\">",
+                "text": "听歌"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/qiubaobao.png\">",
+                "text": "求抱抱"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/zhoudongyudeningshi.png\">",
+                "text": "无语凝视"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/masichundeweixiao.png\">",
+                "text": "礼貌微笑"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/bukan.png\">",
+                "text": "没眼看"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/liekai.png\">",
+                "text": "裂开"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/ganfanren.png\">",
+                "text": "干饭"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/qingzhu.png\">",
+                "text": "庆祝"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/tushe.png\">",
+                "text": "吐舌"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/daiwugu.png\">",
+                "text": "呆"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/baiyan.png\">",
+                "text": "白眼"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/zhutou.png\">",
+                "text": "猪头"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/lengmo.png\">",
+                "text": "冷漠"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/anzhongguancha.png\">",
+                "text": "暗中观察"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/erha.png\">",
+                "text": "二哈"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/caigou.png\">",
+                "text": "菜狗"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/heilian.png\">",
+                "text": "黑脸"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/zhankaishuoshuo.png\">",
+                "text": "展开说说"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/mifenggou.png\">",
+                "text": "蜜蜂小狗"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/huangchaiquan.png\">",
+                "text": "柴犬"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/motou.png\">",
+                "text": "摸头"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/zhoumei.png\">",
+                "text": "皱眉"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/cahan.png\">",
+                "text": "擦汗"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/honglian.png\">",
+                "text": "脸红"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/zuoguilian.png\">",
+                "text": "做鬼脸"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/qiang.png\">",
+                "text": "强"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/ruhua.png\">",
+                "text": "如花"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/tu.png\">",
+                "text": "吐"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/liangxi.png\">",
+                "text": "惊喜"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/qiaoda.png\">",
+                "text": "敲打"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/fendou.png\">",
+                "text": "奋斗"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/tucaihong.png\">",
+                "text": "吐彩虹"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/daku.png\">",
+                "text": "大哭"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/heiha.png\">",
+                "text": "嘿哈"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/jingkong.png\">",
+                "text": "惊恐"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/jiong.png\">",
+                "text": "囧"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/nanguo.png\">",
+                "text": "难过"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/xieyan.png\">",
+                "text": "斜眼"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/yinxian.png\">",
+                "text": "阴险"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/youxian.png\">",
+                "text": "悠闲"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/zhouma.png\">",
+                "text": "咒骂"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/chiguaqunzhong.png\">",
+                "text": "吃瓜群众"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/lvmaozi.png\">",
+                "text": "绿帽子"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/gannubuganyan.png\">",
+                "text": "怒不敢言"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/qiuqiule.png\">",
+                "text": "求求了"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/yanhanrelei.png\">",
+                "text": "眼含热泪"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/tanqi.png\">",
+                "text": "叹气"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/haokaixin.png\">",
+                "text": "好开心"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/bushiba.png\">",
+                "text": "不是吧"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/jugong.png\">",
+                "text": "鞠躬"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/tangping.png\">",
+                "text": "躺平"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/jiuzhuandachang.png\">",
+                "text": "九转大肠"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/bunibuxiang.png\">",
+                "text": "别说了"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/yitouluanma.png\">",
+                "text": "一头乱麻"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/kisskiss.png\">",
+                "text": "飞吻"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/nibudaxing.png\">",
+                "text": "你不大行"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/omg.png\">",
+                "text": "OMG"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/dangji.png\">",
+                "text": "宕机"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/kuse.png\">",
+                "text": "苦涩"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/chengqiangluolei.png\">",
+                "text": "逞强落泪"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/huanglianqiujiwei.png\">",
+                "text": "求机位"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/qiujiwei3.png\">",
+                "text": "求机位"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/jingxuan.png\">",
+                "text": "点赞"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/jingxuanzan.png\">",
+                "text": "精选"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/jiayou.png\">",
+                "text": "强壮"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/pengquan.png\">",
+                "text": "碰拳"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/ok.png\">",
+                "text": "好的"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/jizhang.png\">",
+                "text": "击掌"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/zuoshang.png\">",
+                "text": "指"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/woshou.png\">",
+                "text": "握手"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/baoquan.png\">",
+                "text": "抱拳"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/gouyin.png\">",
+                "text": "勾引"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/quantou.png\">",
+                "text": "拳头"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/ruo.png\">",
+                "text": "弱"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/shengli.png\">",
+                "text": "比耶"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/youbian.png\">",
+                "text": "右边"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/zuobian.png\">",
+                "text": "左边"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/kiss.png\">",
+                "text": "亲"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/shangxin.png\">",
+                "text": "心碎"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/diaoxie.png\">",
+                "text": "凋谢"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/fennu.png\">",
+                "text": "愤怒"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/laji.png\">",
+                "text": "垃圾"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/pijiu.png\">",
+                "text": "啤酒"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/kafei.png\">",
+                "text": "咖啡"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/dangao.png\">",
+                "text": "蛋糕"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/liwu.png\">",
+                "text": "礼物"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/sahua.png\">",
+                "text": "撒花"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/jiayi.png\">",
+                "text": "加一"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/jianyi.png\">",
+                "text": "减一"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/okk.png\">",
+                "text": "OK"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/V5.png\">",
+                "text": "V5"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/jue.png\">",
+                "text": "绝"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/geili.png\">",
+                "text": "给力"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/hongbao.png\">",
+                "text": "红包"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/shi.png\">",
+                "text": "便便"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/fa.png\">",
+                "text": "发"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/18jin.png\">",
+                "text": "18禁"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/zhadan.png\">",
+                "text": "炸弹"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/xigua.png\">",
+                "text": "西瓜"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/jiajitui.png\">",
+                "text": "加鸡腿"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/wozhua.png\">",
+                "text": "握爪"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/taiyang.png\">",
+                "text": "太阳"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/yueliang.png\">",
+                "text": "月亮"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/geiguile.png\">",
+                "text": "给跪了"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/jiaolv.png\">",
+                "text": "蕉绿"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/zhaxin.png\">",
+                "text": "扎心"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/hugua.png\">",
+                "text": "黄瓜"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/dacall.png\">",
+                "text": "打call"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/shuanq.png\">",
+                "text": "栓Q猫"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/xuehua.png\">",
+                "text": "雪花"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/shengdanshu.png\">",
+                "text": "圣诞树"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/pinganguo.png\">",
+                "text": "苹果"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/shengdanmao.png\">",
+                "text": "圣诞帽"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/qiqiu.png\">",
+                "text": "气球"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/yanhua.png\">",
+                "text": "烟花"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/fu.png\">",
+                "text": "福"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/candy.png\">",
+                "text": "糖果"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/tanghulu.png\">",
+                "text": "糖葫芦"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/bianpao.png\">",
+                "text": "鞭炮"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/yuanbao.png\">",
+                "text": "元宝"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/denglong.png\">",
+                "text": "灯笼"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/jinli.png\">",
+                "text": "锦鲤"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/qiaokeli.png\">",
+                "text": "巧克力"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/jiezhi.png\">",
+                "text": "戒指"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/bangbangtang.png\">",
+                "text": "棒棒糖"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/zhifeiji.png\">",
+                "text": "纸飞机"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/zongzi.png\">",
+                "text": "粽子"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/hongtoujin.png\">",
+                "text": "红头巾"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/lantoujin.png\">",
+                "text": "蓝头巾"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/xiaodiaoya.png\">",
+                "text": "笑掉牙"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/wokanxing.png\">",
+                "text": "我看行"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/jundayi.png\">",
+                "text": "军大衣"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/bingtanghulu.png\">",
+                "text": "冰糖葫芦"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/xieliuhai.png\">",
+                "text": "斜刘海"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/lvfa.png\">",
+                "text": "绿发"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/huangfa.png\">",
+                "text": "黄发"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/zhuangku.png\">",
+                "text": "装酷"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/fenfa.png\">",
+                "text": "粉发"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/maoxueren.png\">",
+                "text": "毛雪人"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/maoshoutao.png\">",
+                "text": "毛手套"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/huoguo.png\">",
+                "text": "火锅"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/naicha.png\">",
+                "text": "奶茶"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/zhuiju.png\">",
+                "text": "追剧"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/xiaxue.png\">",
+                "text": "下雪"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/nike.png\">",
+                "text": "尼克"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/zhudi.png\">",
+                "text": "朱迪"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/gairui.png\">",
+                "text": "盖瑞"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/xiaqiyang.png\">",
+                "text": "夏奇羊"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/mashizhang.png\">",
+                "text": "马市长"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/juzhong.png\">",
+                "text": "举重"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/pingpangqiu.png\">",
+                "text": "乒乓球"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/lanqiu.png\">",
+                "text": "篮球"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/jiqing.png\">",
+                "text": "激情"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/jiangpai.png\">",
+                "text": "奖牌"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/xiyangyang.png\">",
+                "text": "喜羊羊"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/meiyangyang.png\">",
+                "text": "美羊羊"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/lanyangyang.png\">",
+                "text": "懒羊羊"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/nuanyangyang.png\">",
+                "text": "暖羊羊"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/feiyangyang.png\">",
+                "text": "沸羊羊"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/huitailang.png\">",
+                "text": "灰太狼"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/hongtailang.png\">",
+                "text": "红太狼"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/qiuhaoyun.png\">",
+                "text": "求好运"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/chaoren.png\">",
+                "text": "超人"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/xiaochou.png\">",
+                "text": "小丑"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/xiaogui.png\">",
+                "text": "小鬼"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/xueqiu.png\">",
+                "text": "雪球"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/dianlianghaojin.png\">",
+                "text": "电量耗尽"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/biefadianle.png\">",
+                "text": "别发癫了"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/nonono.png\">",
+                "text": "nonono"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/kanfushanhai.png\">",
+                "text": "看赴山海"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/6.png\">",
+                "text": "6"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/aileaile.png\">",
+                "text": "爱了爱了"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/anpai.png\">",
+                "text": "安排"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/biaomianciya.png\">",
+                "text": "表面呲牙"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/biaomianweixiao.png\">",
+                "text": "表面微笑"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/bisheng.png\">",
+                "text": "必胜"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/buxinyaoyan.png\">",
+                "text": "不信谣言"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/chiyuebing.png\">",
+                "text": "吃月饼"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/chuoyichuo.png\">",
+                "text": "戳一戳"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/daikouzhao.png\">",
+                "text": "戴口罩"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/damie.png\">",
+                "text": "拒绝"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/dao.png\">",
+                "text": "菜刀"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/diantouhayao.png\">",
+                "text": "点头哈腰"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/dihua.png\">",
+                "text": "递花"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/dongdongnaozi.png\">",
+                "text": "挠头"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/duojin.png\">",
+                "text": "夺金"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/duoshou.png\">",
+                "text": "含泪剁手"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/emo.png\">",
+                "text": "emo"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/goutouhuaixiao.png\">",
+                "text": "狗头坏笑"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/guonianniu.png\">",
+                "text": "过年牛"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/guonianshu.png\">",
+                "text": "过年鼠"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/haideishiwo.png\">",
+                "text": "还得是我"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/han.png\">",
+                "text": "汗"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/hanshui.png\">",
+                "text": "鼾睡"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/haoxiangchi.png\">",
+                "text": "好想吃"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/haoxiangyao.png\">",
+                "text": "好想要"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/heixian.png\">",
+                "text": "尴尬"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/hongqi.png\">",
+                "text": "红旗"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/huanglianganbei.png\">",
+                "text": "干杯"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/huixie.png\">",
+                "text": "栓Q"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/hutou.png\">",
+                "text": "虎头"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/iloveyou.png\">",
+                "text": "我爱你"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/ipqiujiwei.png\">",
+                "text": "求机位"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/jiahaoyou.png\">",
+                "text": "加好友"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/jiaozi.png\">",
+                "text": "吃饺子"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/jingli.png\">",
+                "text": "敬礼"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/jingya.png\">",
+                "text": "惊讶"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/jingyuaimu.png\">",
+                "text": "爱慕"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/jingyuciya.png\">",
+                "text": "呲牙"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/jingyudianzan.png\">",
+                "text": "点赞"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/jingyugaxiao.png\">",
+                "text": "尬笑"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/jingyuliulei.png\">",
+                "text": "流泪"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/jingyutingji.png\">",
+                "text": "停机"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/jingyuwulian.png\">",
+                "text": "捂脸"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/juele.png\">",
+                "text": "绝了"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/kaixintu.png\">",
+                "text": "开心兔"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/kulou.png\">",
+                "text": "骷髅"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/lailiaotian.png\">",
+                "text": "来聊天"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/lianteng.png\">",
+                "text": "脸疼"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/lihaile.png\">",
+                "text": "厉害了"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/luosanpao.png\">",
+                "text": "罗三炮"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/maimaimai.png\">",
+                "text": "买买买"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/mazhu.png\">",
+                "text": "码住"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/memeda.png\">",
+                "text": "么么哒"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/nianshoutu.png\">",
+                "text": "年兽兔"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/ningshi.png\">",
+                "text": "凝视"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/no.png\">",
+                "text": "NO"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/papadalian.png\">",
+                "text": "啪啪打脸"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/qiaomuyu.png\">",
+                "text": "敲木鱼"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/qingshu.png\">",
+                "text": "情书"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/qinxishou.png\">",
+                "text": "勤洗手"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/qiujiwei1.png\">",
+                "text": "求机位"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/qiujiwei2.png\">",
+                "text": "求机位"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/qiuxie.png\">",
+                "text": "球鞋"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/quwufen.png\">",
+                "text": "去污粉"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/ribenguoqi.png\">",
+                "text": "🎌"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/shanglianjie.png\">",
+                "text": "上链接"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/shouhua.png\">",
+                "text": "捧花"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/shoutao.png\">",
+                "text": "手套"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/tajile.png\">",
+                "text": "他急了"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/tangyuan.png\">",
+                "text": "汤圆"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/touxiang.png\">",
+                "text": "投降"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/weixiaodaishu.png\">",
+                "text": "微笑袋鼠"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/wen.png\">",
+                "text": "亲亲"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/wosuanle.png\">",
+                "text": "我酸了"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/wotainanle.png\">",
+                "text": "我太难了"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/wumai.png\">",
+                "text": "生病"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/wuyu.png\">",
+                "text": "无语"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/xiang.png\">",
+                "text": "象"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/xiaohonghua.png\">",
+                "text": "小红花"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/xiaohuangya.png\">",
+                "text": "小黄鸭"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/xikang.png\">",
+                "text": "细糠"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/xiongji.png\">",
+                "text": "汗颜"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/xiaoxinxin.png\">",
+                "text": "小心心"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/xueren.png\">",
+                "text": "雪人"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/yayunguzhang.png\">",
+                "text": "喝彩"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/yes.png\">",
+                "text": "YES"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/jinpai.png\">",
+                "text": "金牌"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/youhengheng.png\">",
+                "text": "右哼哼"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/daiwoqu.png\">",
+                "text": "冲"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/yutu.png\">",
+                "text": "玉兔"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/yyds.png\">",
+                "text": "YYDS"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/zaixianchigua.png\">",
+                "text": "在线吃瓜"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/zhaocaitu.png\">",
+                "text": "招财兔"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/zhongcao.png\">",
+                "text": "种草"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/zhuwei.png\">",
+                "text": "助威"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/zuohengheng.png\">",
+                "text": "左哼哼"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Douyin/zuqiu.png\">",
+                "text": "足球"
+            }
+        ]
+    }
+}

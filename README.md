@@ -19,6 +19,9 @@ https://cdn.jsdmirror.com/gh/Augenstern-O/Stickers/OwO.json
 - **酷安**
   ![酷安](./Images/Example/Coolapk1.png)
   ![酷安](./Images/Example/Coolapk2.png)
+- **哔哩哔哩** - 包含小黄脸、TV小电视
+  ![哔哩哔哩-小黄脸](./Images/Example/BiliBili1.png)
+  ![哔哩哔哩-TV小电视](./Images/Example/BiliBili2.png)
 
 ## 使用方法
 
@@ -43,12 +46,20 @@ frontend:
 
 ```
 Stickers/
-├── OwO.json          # 表情包OwO格式文件
-└── Douyin/           # 抖音表情包图片
+├── OwO.json                 # 表情包OwO格式文件
+└── Douyin/                  # 抖音表情包图片
     ├── weixiao.png
     └── ...
-└── Coolapk/          # 酷安表情包图片
+└── Coolapk/                 # 酷安表情包图片
     ├── hahaha.png
+    └── ...
+└── BiliBili/                # 哔哩哔哩表情包图片
+    └── 小黄脸
+        ├── doge_金箍.png
+        └── ...
+    └── TV小电视
+        ├── tv_白眼.png
+        └── ...
     └── ...
 ```
 

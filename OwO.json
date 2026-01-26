@@ -3730,5 +3730,254 @@
                 "text": "tv_目瞪口呆"
             }
         ]
+    },
+    "小红书": {
+        "type": "image",
+        "container": [
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/微笑.png\">",
+                "text": "微笑"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/害羞.png\">",
+                "text": "害羞"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/失望.png\">",
+                "text": "失望"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/汗颜.png\">",
+                "text": "汗颜"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/哇.png\">",
+                "text": "哇"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/喝奶茶.png\">",
+                "text": "喝奶茶"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/自拍.png\">",
+                "text": "自拍"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/偷笑.png\">",
+                "text": "偷笑"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/飞吻.png\">",
+                "text": "飞吻"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/石化.png\">",
+                "text": "石化"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/笑哭.png\">",
+                "text": "笑哭"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/赞.png\">",
+                "text": "赞"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/蹲后续.png\">",
+                "text": "蹲后续"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/暗中观察.png\">",
+                "text": "暗中观察"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/买爆.png\">",
+                "text": "买爆"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/大笑.png\">",
+                "text": "大笑"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/色色.png\">",
+                "text": "色色"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/生气.png\">",
+                "text": "生气"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/哭惹.png\">",
+                "text": "哭惹"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/萌萌哒.png\">",
+                "text": "萌萌哒"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/斜眼.png\">",
+                "text": "斜眼"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/可怜.png\">",
+                "text": "可怜"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/鄙视.png\">",
+                "text": "鄙视"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/皱眉.png\">",
+                "text": "皱眉"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/抓狂.png\">",
+                "text": "抓狂"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/捂脸.png\">",
+                "text": "捂脸"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/派对.png\">",
+                "text": "派对"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/吧唧.png\">",
+                "text": "吧唧"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/惊恐.png\">",
+                "text": "惊恐"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/抠鼻.png\">",
+                "text": "抠鼻"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/再见.png\">",
+                "text": "再见"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/叹气.png\">",
+                "text": "叹气"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/睡觉.png\">",
+                "text": "睡觉"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/得意.png\">",
+                "text": "得意"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/吃瓜.png\">",
+                "text": "吃瓜"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/扶墙.png\">",
+                "text": "扶墙"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/黑薯问号.png\">",
+                "text": "黑薯问号"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/黄金薯.png\">",
+                "text": "黄金薯"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/吐舌头.png\">",
+                "text": "吐舌头"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/扯脸.png\">",
+                "text": "扯脸"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/doge.png\">",
+                "text": "doge"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/笑哭了.png\">",
+                "text": "笑哭了"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/棒.png\">",
+                "text": "棒"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/亲一个.png\">",
+                "text": "亲一个"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/完啦.png\">",
+                "text": "完啦"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/心心眼.png\">",
+                "text": "心心眼"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/扶额.png\">",
+                "text": "扶额"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/抽泣.png\">",
+                "text": "抽泣"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/呃.png\">",
+                "text": "呃"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/嘻嘻.png\">",
+                "text": "嘻嘻"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/捂嘴笑.png\">",
+                "text": "捂嘴笑"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/超喜欢.png\">",
+                "text": "超喜欢"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/泪崩.png\">",
+                "text": "泪崩"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/尬住.png\">",
+                "text": "尬住"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/坏笑.png\">",
+                "text": "坏笑"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/种草.png\">",
+                "text": "种草"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/拔草.png\">",
+                "text": "拔草"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/变猪猪.png\">",
+                "text": "变猪猪"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/冰淇淋.png\">",
+                "text": "冰淇淋"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/吃粽子.png\">",
+                "text": "吃粽子"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/RedNote/棒棒糖.png\">",
+                "text": "棒棒糖"
+            }
+        ]
     }
 }

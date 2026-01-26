@@ -22,6 +22,9 @@ https://cdn.jsdmirror.com/gh/Augenstern-O/Stickers/OwO.json
 - **哔哩哔哩** - 包含小黄脸、TV小电视
   ![哔哩哔哩-小黄脸](./Images/Example/BiliBili1.png)
   ![哔哩哔哩-TV小电视](./Images/Example/BiliBili2.png)
+- **小红书** - 动图
+  ![小红书](./Images/Example/RedNote1.png)
+  ![小红书](./Images/Example/RedNote2.png)
 
 ## 使用方法
 
@@ -60,6 +63,9 @@ Stickers/
     └── TV小电视
         ├── tv_白眼.png
         └── ...
+    └── ...
+└── RedNote/                 # 小红书表情包图片
+    └── 微笑.png
     └── ...
 ```
 

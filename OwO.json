@@ -2087,5 +2087,614 @@
                 "text": "足球"
             }
         ]
-    }
+    },
+    "酷安": {
+        "type": "image",
+        "container": [
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/hahaha.png\">",
+                "text": "哈哈哈"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/jingya.png\">",
+                "text": "惊讶"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/ciya.png\">",
+                "text": "呲牙"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/liulei.png\">",
+                "text": "流泪"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/keai.png\">",
+                "text": "可爱"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/weixiao.png\">",
+                "text": "微笑"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/hehe.png\">",
+                "text": "呵呵"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/piezui.png\">",
+                "text": "撇嘴"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/se.png\">",
+                "text": "色"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/aoman.png\">",
+                "text": "傲慢"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/yiwen.png\">",
+                "text": "疑问"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/wuyu.png\">",
+                "text": "无语"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/huaixiao.png\">",
+                "text": "坏笑"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/bishi.png\">",
+                "text": "鄙视"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/fanu.png\">",
+                "text": "发怒"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/baonu.png\">",
+                "text": "爆怒"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/tuosai.png\">",
+                "text": "托腮"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/tushe.png\">",
+                "text": "吐舌"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/han.png\">",
+                "text": "汗"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/koubi.png\">",
+                "text": "抠鼻"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/qinqin.png\">",
+                "text": "亲亲"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/penxue.png\">",
+                "text": "喷血"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/xiaoyan.png\">",
+                "text": "笑眼"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/shui.png\">",
+                "text": "睡"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/wuzuixiao.png\">",
+                "text": "捂嘴笑"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/zaijian.png\">",
+                "text": "再见"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/kelian.png\">",
+                "text": "可怜"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/xiaoku.png\">",
+                "text": "笑哭"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/qiang.png\">",
+                "text": "强"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/ruo.png\">",
+                "text": "弱"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/baoquan.png\">",
+                "text": "抱拳"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/ok.png\">",
+                "text": "ok"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/heiha.png\">",
+                "text": "嘿哈"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/wulian.png\">",
+                "text": "捂脸"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/jizhi.png\">",
+                "text": "机智"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/ye.png\">",
+                "text": "耶"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/wozuimei.png\">",
+                "text": "我最美"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/ku.png\">",
+                "text": "酷"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/heixian.png\">",
+                "text": "黑线"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/pen.png\">",
+                "text": "喷"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/yinxian.png\">",
+                "text": "阴险"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/nanguo.png\">",
+                "text": "难过"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/weiqu.png\">",
+                "text": "委屈"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/chigua.png\">",
+                "text": "吃瓜"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/hejiu.png\">",
+                "text": "喝酒"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/pu.png\">",
+                "text": "噗"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/weiweiyixiao.png\">",
+                "text": "微微一笑"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/huanhu.png\">",
+                "text": "欢呼"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/baiyan.png\">",
+                "text": "白眼"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/naikezui.png\">",
+                "text": "耐克嘴"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/tnaikezui.png\">",
+                "text": "t耐克嘴"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/haixiu.png\">",
+                "text": "害羞"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/wunai.png\">",
+                "text": "无奈"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/zhoumei.png\">",
+                "text": "皱眉"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/qqdoge.png\">",
+                "text": "qqdoge"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/fadai.png\">",
+                "text": "发呆"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/shufu.png\">",
+                "text": "舒服"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/landeli.png\">",
+                "text": "懒得理"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/bukaixin.png\">",
+                "text": "不开心"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/tiaomeihuaixiao.png\">",
+                "text": "挑眉坏笑"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/haipa.png\">",
+                "text": "害怕"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/hengji.png\">",
+                "text": "哼唧"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/aida.png\">",
+                "text": "挨打"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/jiaxiao.png\">",
+                "text": "假笑"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/toukan.png\">",
+                "text": "偷看"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/hecha.png\">",
+                "text": "喝茶"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/houhouhou.png\">",
+                "text": "哦吼吼"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/yanmianxiao.png\">",
+                "text": "掩面笑"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/biaomiankuqi.png\">",
+                "text": "表面哭泣"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/biaomiankaixin.png\">",
+                "text": "表面开心"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/huaji.png\">",
+                "text": "滑稽"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/liuhanhuaji.png\">",
+                "text": "流汗滑稽"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/shounuehuaji.png\">",
+                "text": "受虐滑稽"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/coshuaji.png\">",
+                "text": "cos滑稽"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/doujiyanhuaji.png\">",
+                "text": "斗鸡眼滑稽"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/mojinghuaji.png\">",
+                "text": "墨镜滑稽"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/xiaozuihuaji.png\">",
+                "text": "小嘴滑稽"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/zhenbuchuo.png\">",
+                "text": "针不戳"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/liewenhuke.png\">",
+                "text": "列文虎克"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/zhenzhengdeyinyue.png\">",
+                "text": "真正的音乐"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/ganzhibuqiang.png\">",
+                "text": "感知不强"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/geiwozhengyige.png\">",
+                "text": "给我整一个"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/yyds.png\">",
+                "text": "yyds"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/doge.png\">",
+                "text": "doge"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/dogexiaoku.png\">",
+                "text": "doge笑哭"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/dogehechi.png\">",
+                "text": "doge呵斥"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/dogeyuanliangta.png\">",
+                "text": "doge原谅ta"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/miaomiao.png\">",
+                "text": "喵喵"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/erha.png\">",
+                "text": "二哈"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/erhading.png\">",
+                "text": "二哈盯"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/aixin.png\">",
+                "text": "爱心"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/xinsui.png\">",
+                "text": "心碎"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/meigui.png\">",
+                "text": "玫瑰"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/diaoxie.png\">",
+                "text": "凋谢"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/caidao.png\">",
+                "text": "菜刀"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/nb.png\">",
+                "text": "牛啤"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/pyjiaoyi.png\">",
+                "text": "py交易"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/lvyaowan.png\">",
+                "text": "绿药丸"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/hongyaowan.png\">",
+                "text": "红药丸"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/kuan.png\">",
+                "text": "酷安"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/kuandiaoyu.png\">",
+                "text": "酷安钓鱼"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/lvmao.png\">",
+                "text": "绿帽"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/kuanlvmao.png\">",
+                "text": "酷安绿帽"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/huoba.png\">",
+                "text": "火把"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/xiageaidijian.png\">",
+                "text": "夏阁艾迪剑"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/xiaciyiding.png\">",
+                "text": "下次一定"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/kuantudou.png\">",
+                "text": "酷安土豆"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/toutiaotongzhishu.png\">",
+                "text": "头条通知书"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/coolb.png\">",
+                "text": "酷币"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/onef.png\">",
+                "text": "酷币1分"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/twof.png\">",
+                "text": "酷币2分"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/fivef.png\">",
+                "text": "酷币5分"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/onem.png\">",
+                "text": "酷币1毛"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/twom.png\">",
+                "text": "酷币2毛"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/fivem.png\">",
+                "text": "酷币5毛"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/oney.png\">",
+                "text": "酷币1块"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/twoy.png\">",
+                "text": "酷币2块"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/fivey.png\">",
+                "text": "酷币5块"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/teny.png\">",
+                "text": "酷币10块"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/ty.png\">",
+                "text": "酷币20块"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/fy.png\">",
+                "text": "酷币50块"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/oy.png\">",
+                "text": "酷币100块"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/oned.png\">",
+                "text": "酷币1$"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/twod.png\">",
+                "text": "酷币2$"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/fived.png\">",
+                "text": "酷币5$"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/oneo.png\">",
+                "text": "酷币1€"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/twoo.png\">",
+                "text": "酷币2€"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/fiveo.png\">",
+                "text": "酷币5€"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/huisekubi.png\">",
+                "text": "灰色酷币"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/lvsekubi.png\">",
+                "text": "绿色酷币"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/baiwenkubi.png\">",
+                "text": "白纹酷币"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/xinkubi.png\">",
+                "text": "新酷币"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/xinbi1fen.png\">",
+                "text": "新币1分"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/xinkubi2fen.png\">",
+                "text": "新酷币2分"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/xinkubi5fen.png\">",
+                "text": "新酷币5分"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/xinkubi1mao.png\">",
+                "text": "新酷币1毛"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/xinkubi2mao.png\">",
+                "text": "新酷币2毛"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/xinkubi5mao.png\">",
+                "text": "新酷币5毛"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/xinkubi1kuai.png\">",
+                "text": "新酷币1块"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/xinkubi2kuai.png\">",
+                "text": "新酷币2块"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/xinkubi5kuai.png\">",
+                "text": "新酷币5块"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/xinkubi10kuai.png\">",
+                "text": "新酷币10块"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/xinkubi20kuai.png\">",
+                "text": "新酷币20块"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/xinkubi50kuai.png\">",
+                "text": "新酷币50块"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/xinkubi100kuai.png\">",
+                "text": "新酷币100块"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/xinkubi1meiyuan.png\">",
+                "text": "新酷币1$"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/xinkubi2meiyuan.png\">",
+                "text": "新酷币2$"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/xinkubi5meiyuan.png\">",
+                "text": "新酷币5$"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/xinkubi1ouyuan.png\">",
+                "text": "新酷币1€"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/xinkubi2ouyuan.png\">",
+                "text": "新酷币2€"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Coolapk/xinkubi5ouyuan.png\">",
+                "text": "新酷币5€"
+            }
+        ]
+    },
 }

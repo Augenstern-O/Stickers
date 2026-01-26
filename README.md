@@ -16,6 +16,9 @@ https://cdn.jsdmirror.com/gh/Augenstern-O/Stickers/OwO.json
 - **抖音** - 含限时表情
   ![抖音](./Images/Example/Douyin1.png)
   ![抖音](./Images/Example/Douyin2.png)
+- **酷安**
+  ![酷安](./Images/Example/Coolapk1.png)
+  ![酷安](./Images/Example/Coolapk2.png)
 
 ## 使用方法
 
@@ -43,6 +46,9 @@ Stickers/
 ├── OwO.json          # 表情包OwO格式文件
 └── Douyin/           # 抖音表情包图片
     ├── weixiao.png
+    └── ...
+└── Coolapk/          # 酷安表情包图片
+    ├── hahaha.png
     └── ...
 ```
 

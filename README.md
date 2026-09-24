@@ -16,15 +16,19 @@ https://cdn.jsdmirror.com/gh/Augenstern-O/Stickers/OwO.json
 - **抖音** - 含限时表情
   ![抖音](./Images/Example/Douyin1.png)
   ![抖音](./Images/Example/Douyin2.png)
-- **酷安**
+- **酷安** - 含酷小牛系列
   ![酷安](./Images/Example/Coolapk1.png)
   ![酷安](./Images/Example/Coolapk2.png)
+  ![酷安-酷小牛](./Images/Example/Coolapk3.png)
 - **哔哩哔哩** - 包含小黄脸、TV小电视
   ![哔哩哔哩-小黄脸](./Images/Example/BiliBili1.png)
   ![哔哩哔哩-TV小电视](./Images/Example/BiliBili2.png)
 - **小红书** - 动图
   ![小红书](./Images/Example/RedNote1.png)
   ![小红书](./Images/Example/RedNote2.png)
+- **QQ** - 包含小黄脸表情、QQ黄脸、emoji表情、隐藏表情、互动表情、汪汪、喜花妮、企鹅、噗噗星人
+  ![QQ-小黄脸表情](./Images/Example/QQ1.png)
+  ![QQ-QQ黄脸](./Images/Example/QQ2.png)
 
 ## 使用方法
 
@@ -49,24 +53,37 @@ frontend:
 
 ```
 Stickers/
-├── OwO.json                 # 表情包OwO格式文件
-└── Douyin/                  # 抖音表情包图片
-    ├── weixiao.png
-    └── ...
-└── Coolapk/                 # 酷安表情包图片
-    ├── hahaha.png
-    └── ...
-└── BiliBili/                # 哔哩哔哩表情包图片
-    └── 小黄脸
-        ├── doge_金箍.png
-        └── ...
-    └── TV小电视
-        ├── tv_白眼.png
-        └── ...
-    └── ...
-└── RedNote/                 # 小红书表情包图片
-    └── 微笑.png
-    └── ...
+├── OwO.json                     # 表情包OwO格式文件
+├── Images/Example/              # README 展示用截图
+├── Douyin/                      # 抖音表情包图片
+│   ├── weixiao.png
+│   └── ...
+├── Coolapk/                     # 酷安表情包图片
+│   ├── hahaha.png
+│   ├── 酷小牛/                  # 酷安-酷小牛系列
+│   │   ├── 牛牛呲牙笑.png
+│   │   └── ...
+│   └── ...
+├── BiliBili/                    # 哔哩哔哩表情包图片
+│   ├── 小黄脸/
+│   │   ├── doge_金箍.png
+│   │   └── ...
+│   └── TV小电视/
+│       ├── tv_白眼.png
+│       └── ...
+├── RedNote/                     # 小红书表情包图片
+│   ├── 微笑.png
+│   └── ...
+└── QQ/                          # QQ表情包图片
+    ├── 小黄脸表情/
+    ├── QQ黄脸/
+    ├── emoji表情/
+    ├── 隐藏表情/
+    ├── 互动表情/
+    ├── 汪汪/
+    ├── 喜花妮/
+    ├── 企鹅/
+    └── 噗噗星人/
 ```
 
 ## 贡献
@@ -74,7 +91,7 @@ Stickers/
 欢迎提交 PR 添加更多平台的表情包！
 
 1. Fork 本仓库
-2. 创建新的平台文件夹（如 `WeChat/`、`QQ/` 等）
+2. 创建新的平台文件夹（如 `WeChat/` 等）
 3. 添加表情包图片
 4. 更新 `OwO.json` 配置
 5. 提交 Pull Request

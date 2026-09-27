@@ -14,21 +14,21 @@ https://cdn.jsdmirror.com/gh/Augenstern-O/Stickers/OwO.json
 
 - **Emoji** - 笑脸与情感
 - **抖音** - 含限时表情
-  ![抖音](./Images/Example/Douyin1.png)
-  ![抖音](./Images/Example/Douyin2.png)
+  <img src="./Images/Example/Douyin1.png" alt="抖音" width="660">
+  <img src="./Images/Example/Douyin2.png" alt="抖音" width="660">
 - **酷安** - 含酷小牛系列
-  ![酷安](./Images/Example/Coolapk1.png)
-  ![酷安](./Images/Example/Coolapk2.png)
-  ![酷安-酷小牛](./Images/Example/Coolapk3.png)
+  <img src="./Images/Example/Coolapk1.png" alt="酷安" width="660">
+  <img src="./Images/Example/Coolapk2.png" alt="酷安" width="660">
+  <img src="./Images/Example/Coolapk3.png" alt="酷安-酷小牛" width="660">
 - **哔哩哔哩** - 包含小黄脸、TV小电视
-  ![哔哩哔哩-小黄脸](./Images/Example/BiliBili1.png)
-  ![哔哩哔哩-TV小电视](./Images/Example/BiliBili2.png)
+  <img src="./Images/Example/BiliBili1.png" alt="哔哩哔哩-小黄脸" width="660">
+  <img src="./Images/Example/BiliBili2.png" alt="哔哩哔哩-TV小电视" width="660">
 - **小红书** - 动图
-  ![小红书](./Images/Example/RedNote1.png)
-  ![小红书](./Images/Example/RedNote2.png)
+  <img src="./Images/Example/RedNote1.png" alt="小红书" width="660">
+  <img src="./Images/Example/RedNote2.png" alt="小红书" width="660">
 - **QQ** - 包含小黄脸表情、QQ黄脸、emoji表情、隐藏表情、互动表情、汪汪、喜花妮、企鹅、噗噗星人
-  ![QQ-小黄脸表情](./Images/Example/QQ1.png)
-  ![QQ-QQ黄脸](./Images/Example/QQ2.png)
+  <img src="./Images/Example/QQ1.png" alt="QQ-小黄脸表情" width="660">
+  <img src="./Images/Example/QQ2.png" alt="QQ-QQ黄脸" width="660">
 
 ## 使用方法
 

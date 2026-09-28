@@ -29,6 +29,8 @@ https://cdn.jsdmirror.com/gh/Augenstern-O/Stickers/OwO.json
 - **QQ** - 包含小黄脸表情、QQ黄脸、emoji表情、隐藏表情、互动表情、汪汪、喜花妮、企鹅、噗噗星人
   <img src="./Images/Example/QQ1.png" alt="QQ-小黄脸表情" width="660">
   <img src="./Images/Example/QQ2.png" alt="QQ-QQ黄脸" width="660">
+- **飞书** - 含深浅色变体
+- **钉钉** - 含动图
 
 ## 使用方法
 
@@ -74,7 +76,7 @@ Stickers/
 ├── RedNote/                     # 小红书表情包图片
 │   ├── 微笑.png
 │   └── ...
-└── QQ/                          # QQ表情包图片
+├── QQ/                          # QQ表情包图片
     ├── 小黄脸表情/
     ├── QQ黄脸/
     ├── emoji表情/
@@ -84,6 +86,12 @@ Stickers/
     ├── 喜花妮/
     ├── 企鹅/
     └── 噗噗星人/
+├── Feishu/                      # 飞书表情包图片
+│   ├── 赞.png
+│   └── ...
+└── DingTalk/                    # 钉钉表情包图片
+    ├── 666.png
+    └── ...
 ```
 
 ## 贡献

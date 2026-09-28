@@ -5420,12 +5420,12 @@
                 "text": "秋秋之约"
             },
             {
-                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/QQ/QQ黄脸/秋秋赏月-2.png\">",
-                "text": "秋秋赏月-2"
-            },
-            {
                 "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/QQ/QQ黄脸/秋秋赏月-1.png\">",
                 "text": "秋秋赏月-1"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/QQ/QQ黄脸/秋秋赏月-2.png\">",
+                "text": "秋秋赏月-2"
             },
             {
                 "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/QQ/QQ黄脸/秋愿达成.png\">",
@@ -5999,6 +5999,2392 @@
             {
                 "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/QQ/噗噗星人/波波流泪.png\">",
                 "text": "波波流泪"
+            }
+        ]
+    },
+    "飞书": {
+        "type": "image",
+        "container": [
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/OK.png\">",
+                "text": "OK"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/赞.png\">",
+                "text": "赞"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/赞（中等浅色）.png\">",
+                "text": "赞（中等浅色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/赞（浅色）.png\">",
+                "text": "赞（浅色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/赞（中等色）.png\">",
+                "text": "赞（中等色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/赞（中等深色）.png\">",
+                "text": "赞（中等深色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/赞（深色）.png\">",
+                "text": "赞（深色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/双手合十.png\">",
+                "text": "双手合十"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/双手合十（中等浅色）.png\">",
+                "text": "双手合十（中等浅色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/双手合十（浅色）.png\">",
+                "text": "双手合十（浅色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/双手合十（中等色）.png\">",
+                "text": "双手合十（中等色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/双手合十（中等深色）.png\">",
+                "text": "双手合十（中等深色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/双手合十（深色）.png\">",
+                "text": "双手合十（深色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/加油.png\">",
+                "text": "加油"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/加油（中等浅色）.png\">",
+                "text": "加油（中等浅色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/加油（浅色）.png\">",
+                "text": "加油（浅色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/加油（中等色）.png\">",
+                "text": "加油（中等色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/加油（中等深色）.png\">",
+                "text": "加油（中等深色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/加油（深色）.png\">",
+                "text": "加油（深色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/比心.png\">",
+                "text": "比心"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/比心（中等浅色）.png\">",
+                "text": "比心（中等浅色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/比心（浅色）.png\">",
+                "text": "比心（浅色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/比心（中等色）.png\">",
+                "text": "比心（中等色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/比心（中等深色）.png\">",
+                "text": "比心（中等深色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/比心（深色）.png\">",
+                "text": "比心（深色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/鼓掌.png\">",
+                "text": "鼓掌"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/鼓掌（中等浅色）.png\">",
+                "text": "鼓掌（中等浅色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/鼓掌（浅色）.png\">",
+                "text": "鼓掌（浅色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/鼓掌（中等色）.png\">",
+                "text": "鼓掌（中等色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/鼓掌（中等深色）.png\">",
+                "text": "鼓掌（中等深色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/鼓掌（深色）.png\">",
+                "text": "鼓掌（深色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/碰拳.png\">",
+                "text": "碰拳"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/碰拳（中等浅色）.png\">",
+                "text": "碰拳（中等浅色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/碰拳（浅色）.png\">",
+                "text": "碰拳（浅色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/碰拳（中等色）.png\">",
+                "text": "碰拳（中等色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/碰拳（中等深色）.png\">",
+                "text": "碰拳（中等深色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/碰拳（深色）.png\">",
+                "text": "碰拳（深色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/+1.png\">",
+                "text": "+1"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/完成.png\">",
+                "text": "完成"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/微笑.png\">",
+                "text": "微笑"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/愉快.png\">",
+                "text": "愉快"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/笑容满面.png\">",
+                "text": "笑容满面"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/呲牙.png\">",
+                "text": "呲牙"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/大笑.png\">",
+                "text": "大笑"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/坏笑.png\">",
+                "text": "坏笑"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/笑哭.png\">",
+                "text": "笑哭"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/捂脸.png\">",
+                "text": "捂脸"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/送心.png\">",
+                "text": "送心"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/调皮.png\">",
+                "text": "调皮"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/得意.png\">",
+                "text": "得意"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/灵光一闪.png\">",
+                "text": "灵光一闪"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/机智.png\">",
+                "text": "机智"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/惊呆.png\">",
+                "text": "惊呆"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/思考.png\">",
+                "text": "思考"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/流泪.png\">",
+                "text": "流泪"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/泣不成声.png\">",
+                "text": "泣不成声"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/黑线.png\">",
+                "text": "黑线"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/抠鼻.png\">",
+                "text": "抠鼻"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/烦躁.png\">",
+                "text": "烦躁"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/打脸.png\">",
+                "text": "打脸"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/吐血.png\">",
+                "text": "吐血"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/衰.png\">",
+                "text": "衰"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/冷汗.png\">",
+                "text": "冷汗"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/新月脸.png\">",
+                "text": "新月脸"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/满月脸.png\">",
+                "text": "满月脸"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/看.png\">",
+                "text": "看"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/呆无辜.png\">",
+                "text": "呆无辜"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/玫瑰.png\">",
+                "text": "玫瑰"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/爱心.png\">",
+                "text": "爱心"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/撒花.png\">",
+                "text": "撒花"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/无辜笑.png\">",
+                "text": "无辜笑"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/害羞.png\">",
+                "text": "害羞"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/偷笑.png\">",
+                "text": "偷笑"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/笑.png\">",
+                "text": "笑"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/惊喜.png\">",
+                "text": "惊喜"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/嬉笑.png\">",
+                "text": "嬉笑"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/耶.png\">",
+                "text": "耶"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/我想静静.png\">",
+                "text": "我想静静"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/泪奔.png\">",
+                "text": "泪奔"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/尬笑.png\">",
+                "text": "尬笑"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/亲亲.png\">",
+                "text": "亲亲"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/飞吻.png\">",
+                "text": "飞吻"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/爱慕.png\">",
+                "text": "爱慕"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/心心脸.png\">",
+                "text": "心心脸"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/财迷.png\">",
+                "text": "财迷"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/做鬼脸.png\">",
+                "text": "做鬼脸"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/酷.png\">",
+                "text": "酷"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/摸头.png\">",
+                "text": "摸头"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/欢呼.png\">",
+                "text": "欢呼"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/强.png\">",
+                "text": "强"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/奋斗.png\">",
+                "text": "奋斗"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/脸红.png\">",
+                "text": "脸红"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/闭嘴.png\">",
+                "text": "闭嘴"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/再见.png\">",
+                "text": "再见"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/什么？.png\">",
+                "text": "什么？"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/皱眉.png\">",
+                "text": "皱眉"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/晕.png\">",
+                "text": "晕"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/鄙视.png\">",
+                "text": "鄙视"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/大哭.png\">",
+                "text": "大哭"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/抓狂.png\">",
+                "text": "抓狂"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/可怜.png\">",
+                "text": "可怜"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/求抱抱.png\">",
+                "text": "求抱抱"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/快哭了.png\">",
+                "text": "快哭了"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/委屈.png\">",
+                "text": "委屈"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/翻白眼.png\">",
+                "text": "翻白眼"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/嘘.png\">",
+                "text": "嘘"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/撇嘴.png\">",
+                "text": "撇嘴"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/发怒.png\">",
+                "text": "发怒"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/敲打.png\">",
+                "text": "敲打"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/震惊.png\">",
+                "text": "震惊"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/惊恐.png\">",
+                "text": "惊恐"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/石化.png\">",
+                "text": "石化"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/骷髅.png\">",
+                "text": "骷髅"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/汗.png\">",
+                "text": "汗"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/无语.png\">",
+                "text": "无语"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/鼾睡.png\">",
+                "text": "鼾睡"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/困.png\">",
+                "text": "困"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/哈欠.png\">",
+                "text": "哈欠"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/戴口罩.png\">",
+                "text": "戴口罩"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/吐.png\">",
+                "text": "吐"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/背叛.png\">",
+                "text": "背叛"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/听歌.png\">",
+                "text": "听歌"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/吃饭.png\">",
+                "text": "吃饭"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/敲键盘.png\">",
+                "text": "敲键盘"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/柠檬.png\">",
+                "text": "柠檬"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/了解.png\">",
+                "text": "了解"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/我看行.png\">",
+                "text": "我看行"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/谢谢.png\">",
+                "text": "谢谢"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/在做了.png\">",
+                "text": "在做了"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/稍等.png\">",
+                "text": "稍等"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/叹气.png\">",
+                "text": "叹气"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/举手.png\">",
+                "text": "举手"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/VR.png\">",
+                "text": "VR"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/派对.png\">",
+                "text": "派对"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/冲！.png\">",
+                "text": "冲！"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/感谢.png\">",
+                "text": "感谢"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/致敬.png\">",
+                "text": "致敬"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/耸肩摊手.png\">",
+                "text": "耸肩摊手"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/OK手势.png\">",
+                "text": "OK手势"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/OK手势（中等浅色）.png\">",
+                "text": "OK手势（中等浅色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/OK手势（浅色）.png\">",
+                "text": "OK手势（浅色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/OK手势（中等色）.png\">",
+                "text": "OK手势（中等色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/OK手势（中等深色）.png\">",
+                "text": "OK手势（中等深色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/OK手势（深色）.png\">",
+                "text": "OK手势（深色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/送你小红花.png\">",
+                "text": "送你小红花"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/送你小红花（中等浅色）.png\">",
+                "text": "送你小红花（中等浅色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/送你小红花（浅色）.png\">",
+                "text": "送你小红花（浅色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/送你小红花（中等色）.png\">",
+                "text": "送你小红花（中等色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/送你小红花（中等深色）.png\">",
+                "text": "送你小红花（中等深色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/送你小红花（深色）.png\">",
+                "text": "送你小红花（深色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/抱拳.png\">",
+                "text": "抱拳"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/抱拳（中等浅色）.png\">",
+                "text": "抱拳（中等浅色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/抱拳（浅色）.png\">",
+                "text": "抱拳（浅色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/抱拳（中等色）.png\">",
+                "text": "抱拳（中等色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/抱拳（中等深色）.png\">",
+                "text": "抱拳（中等深色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/抱拳（深色）.png\">",
+                "text": "抱拳（深色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/握手.png\">",
+                "text": "握手"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/握手（中等浅色）.png\">",
+                "text": "握手（中等浅色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/握手（浅色）.png\">",
+                "text": "握手（浅色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/握手（中等色）.png\">",
+                "text": "握手（中等色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/握手（中等深色）.png\">",
+                "text": "握手（中等深色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/握手（深色）.png\">",
+                "text": "握手（深色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/击掌.png\">",
+                "text": "击掌"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/击掌（中等浅色）.png\">",
+                "text": "击掌（中等浅色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/击掌（浅色）.png\">",
+                "text": "击掌（浅色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/击掌（中等色）.png\">",
+                "text": "击掌（中等色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/击掌（中等深色）.png\">",
+                "text": "击掌（中等深色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/击掌（深色）.png\">",
+                "text": "击掌（深色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/挥手.png\">",
+                "text": "挥手"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/挥手（中等浅色）.png\">",
+                "text": "挥手（中等浅色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/挥手（浅色）.png\">",
+                "text": "挥手（浅色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/挥手（中等色）.png\">",
+                "text": "挥手（中等色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/挥手（中等深色）.png\">",
+                "text": "挥手（中等深色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/挥手（深色）.png\">",
+                "text": "挥手（深色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/点击.png\">",
+                "text": "点击"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/点击（中等浅色）.png\">",
+                "text": "点击（中等浅色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/点击（浅色）.png\">",
+                "text": "点击（浅色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/点击（中等色）.png\">",
+                "text": "点击（中等色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/点击（中等深色）.png\">",
+                "text": "点击（中等深色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/点击（深色）.png\">",
+                "text": "点击（深色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/踩.png\">",
+                "text": "踩"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/踩（中等浅色）.png\">",
+                "text": "踩（中等浅色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/踩（浅色）.png\">",
+                "text": "踩（浅色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/踩（中等色）.png\">",
+                "text": "踩（中等色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/踩（中等深色）.png\">",
+                "text": "踩（中等深色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/踩（深色）.png\">",
+                "text": "踩（深色）"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/小丑脸.png\">",
+                "text": "小丑脸"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/白眼.png\">",
+                "text": "白眼"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/吐舌.png\">",
+                "text": "吐舌"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/不看.png\">",
+                "text": "不看"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/啊？.png\">",
+                "text": "啊？"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/公牛.png\">",
+                "text": "公牛"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/小牛.png\">",
+                "text": "小牛"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/萌虎打Call.png\">",
+                "text": "萌虎打Call"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/欢兔喝彩.png\">",
+                "text": "欢兔喝彩"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/龙光焕发.png\">",
+                "text": "龙光焕发"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/巳巳如意.png\">",
+                "text": "巳巳如意"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/嘴唇.png\">",
+                "text": "嘴唇"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/啤酒.png\">",
+                "text": "啤酒"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/蛋糕.png\">",
+                "text": "蛋糕"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/礼物.png\">",
+                "text": "礼物"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/胡瓜.png\">",
+                "text": "胡瓜"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/鸡腿.png\">",
+                "text": "鸡腿"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/辣椒.png\">",
+                "text": "辣椒"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/冰糖葫芦.png\">",
+                "text": "冰糖葫芦"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/奶茶.png\">",
+                "text": "奶茶"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/咖啡.png\">",
+                "text": "咖啡"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/Yes.png\">",
+                "text": "Yes"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/No.png\">",
+                "text": "No"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/OKR.png\">",
+                "text": "OKR"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/勾号.png\">",
+                "text": "勾号"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/叉号.png\">",
+                "text": "叉号"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/-1.png\">",
+                "text": "-1"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/100分.png\">",
+                "text": "100分"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/牛.png\">",
+                "text": "牛"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/图钉.png\">",
+                "text": "图钉"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/闹钟.png\">",
+                "text": "闹钟"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/喇叭.png\">",
+                "text": "喇叭"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/奖杯.png\">",
+                "text": "奖杯"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/火.png\">",
+                "text": "火"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/彩虹.png\">",
+                "text": "彩虹"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/音乐.png\">",
+                "text": "音乐"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/电视.png\">",
+                "text": "电视"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/电影.png\">",
+                "text": "电影"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/南瓜灯.png\">",
+                "text": "南瓜灯"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/圣诞树.png\">",
+                "text": "圣诞树"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/雪人.png\">",
+                "text": "雪人"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/圣诞帽.png\">",
+                "text": "圣诞帽"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/烟花.png\">",
+                "text": "烟花"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/2026.png\">",
+                "text": "2026"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/一马当先.png\">",
+                "text": "一马当先"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/红包.png\">",
+                "text": "红包"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/发.png\">",
+                "text": "发"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/福.png\">",
+                "text": "福"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/爆竹.png\">",
+                "text": "爆竹"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/元宵.png\">",
+                "text": "元宵"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/月饼.png\">",
+                "text": "月饼"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/玉兔.png\">",
+                "text": "玉兔"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/心碎.png\">",
+                "text": "心碎"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/炸弹.png\">",
+                "text": "炸弹"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/便便.png\">",
+                "text": "便便"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/18禁.png\">",
+                "text": "18禁"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/刀.png\">",
+                "text": "刀"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/足球.png\">",
+                "text": "足球"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/篮球.png\">",
+                "text": "篮球"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/请勿打扰.png\">",
+                "text": "请勿打扰"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/思考中.png\">",
+                "text": "思考中"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/日程.png\">",
+                "text": "日程"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/精神补给.png\">",
+                "text": "精神补给"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/灵光一现.png\">",
+                "text": "灵光一现"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/出差.png\">",
+                "text": "出差"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/在家办公.png\">",
+                "text": "在家办公"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/美好生活.png\">",
+                "text": "美好生活"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/出行.png\">",
+                "text": "出行"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/公交车.png\">",
+                "text": "公交车"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/飞行中.png\">",
+                "text": "飞行中"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/辛勤营业.png\">",
+                "text": "辛勤营业"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/天色已晚.png\">",
+                "text": "天色已晚"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/2021年.png\">",
+                "text": "2021年"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/2022年.png\">",
+                "text": "2022年"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/2023.png\">",
+                "text": "2023"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/2024.png\">",
+                "text": "2024"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/2025.png\">",
+                "text": "2025"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/如花.png\">",
+                "text": "如花"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/吃瓜群众.png\">",
+                "text": "吃瓜群众"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/凝视.png\">",
+                "text": "凝视"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/紫薇别走.png\">",
+                "text": "紫薇别走"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/来看我.png\">",
+                "text": "来看我"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/V5.png\">",
+                "text": "V5"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/互粉.png\">",
+                "text": "互粉"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/去污粉.png\">",
+                "text": "去污粉"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/666.png\">",
+                "text": "666"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/给力.png\">",
+                "text": "给力"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/休假.png\">",
+                "text": "休假"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/追求极致.png\">",
+                "text": "追求极致"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/成就客户.png\">",
+                "text": "成就客户"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/有担当可信赖.png\">",
+                "text": "有担当可信赖"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/谋远大有耐心.png\">",
+                "text": "谋远大有耐心"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/Feishu/AI答对了.png\">",
+                "text": "AI答对了"
+            }
+        ]
+    },
+    "钉钉": {
+        "type": "image",
+        "container": [
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/微笑.png\">",
+                "text": "微笑"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/憨笑.png\">",
+                "text": "憨笑"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/可爱.png\">",
+                "text": "可爱"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/色.png\">",
+                "text": "色"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/发呆.png\">",
+                "text": "发呆"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/老板.png\">",
+                "text": "老板"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/傻笑.png\">",
+                "text": "傻笑"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/流泪.png\">",
+                "text": "流泪"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/害羞.png\">",
+                "text": "害羞"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/闭嘴.png\">",
+                "text": "闭嘴"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/睡.png\">",
+                "text": "睡"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/大哭.png\">",
+                "text": "大哭"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/尴尬.png\">",
+                "text": "尴尬"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/感谢.png\">",
+                "text": "感谢"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/感谢_1.png\">",
+                "text": "感谢_1"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/感谢_2.png\">",
+                "text": "感谢_2"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/感谢_3.png\">",
+                "text": "感谢_3"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/感谢_4.png\">",
+                "text": "感谢_4"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/感谢_5.png\">",
+                "text": "感谢_5"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/拒绝.png\">",
+                "text": "拒绝"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/拒绝_1.png\">",
+                "text": "拒绝_1"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/拒绝_2.png\">",
+                "text": "拒绝_2"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/拒绝_3.png\">",
+                "text": "拒绝_3"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/拒绝_4.png\">",
+                "text": "拒绝_4"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/拒绝_5.png\">",
+                "text": "拒绝_5"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/赞.png\">",
+                "text": "赞"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/赞_1.png\">",
+                "text": "赞_1"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/赞_2.png\">",
+                "text": "赞_2"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/赞_3.png\">",
+                "text": "赞_3"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/赞_4.png\">",
+                "text": "赞_4"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/赞_5.png\">",
+                "text": "赞_5"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/鼓掌.png\">",
+                "text": "鼓掌"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/鼓掌_1.png\">",
+                "text": "鼓掌_1"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/鼓掌_2.png\">",
+                "text": "鼓掌_2"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/鼓掌_3.png\">",
+                "text": "鼓掌_3"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/鼓掌_4.png\">",
+                "text": "鼓掌_4"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/鼓掌_5.png\">",
+                "text": "鼓掌_5"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/打招呼.png\">",
+                "text": "打招呼"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/打招呼_1.png\">",
+                "text": "打招呼_1"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/打招呼_2.png\">",
+                "text": "打招呼_2"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/打招呼_3.png\">",
+                "text": "打招呼_3"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/打招呼_4.png\">",
+                "text": "打招呼_4"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/打招呼_5.png\">",
+                "text": "打招呼_5"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/666.png\">",
+                "text": "666"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/666_1.png\">",
+                "text": "666_1"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/666_2.png\">",
+                "text": "666_2"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/666_3.png\">",
+                "text": "666_3"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/666_4.png\">",
+                "text": "666_4"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/666_5.png\">",
+                "text": "666_5"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/抱拳.png\">",
+                "text": "抱拳"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/抱拳_1.png\">",
+                "text": "抱拳_1"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/抱拳_2.png\">",
+                "text": "抱拳_2"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/抱拳_3.png\">",
+                "text": "抱拳_3"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/抱拳_4.png\">",
+                "text": "抱拳_4"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/抱拳_5.png\">",
+                "text": "抱拳_5"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/握手.png\">",
+                "text": "握手"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/握手_1.png\">",
+                "text": "握手_1"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/握手_2.png\">",
+                "text": "握手_2"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/握手_3.png\">",
+                "text": "握手_3"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/握手_4.png\">",
+                "text": "握手_4"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/握手_5.png\">",
+                "text": "握手_5"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/OK.png\">",
+                "text": "OK"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/OK_1.png\">",
+                "text": "OK_1"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/OK_2.png\">",
+                "text": "OK_2"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/OK_3.png\">",
+                "text": "OK_3"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/OK_4.png\">",
+                "text": "OK_4"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/OK_5.png\">",
+                "text": "OK_5"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/胜利.png\">",
+                "text": "胜利"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/胜利_1.png\">",
+                "text": "胜利_1"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/胜利_2.png\">",
+                "text": "胜利_2"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/胜利_3.png\">",
+                "text": "胜利_3"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/胜利_4.png\">",
+                "text": "胜利_4"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/胜利_5.png\">",
+                "text": "胜利_5"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/向左.png\">",
+                "text": "向左"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/向左_1.png\">",
+                "text": "向左_1"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/向左_2.png\">",
+                "text": "向左_2"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/向左_3.png\">",
+                "text": "向左_3"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/向左_4.png\">",
+                "text": "向左_4"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/向左_5.png\">",
+                "text": "向左_5"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/向右.png\">",
+                "text": "向右"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/向右_1.png\">",
+                "text": "向右_1"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/向右_2.png\">",
+                "text": "向右_2"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/向右_3.png\">",
+                "text": "向右_3"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/向右_4.png\">",
+                "text": "向右_4"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/向右_5.png\">",
+                "text": "向右_5"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/向上.png\">",
+                "text": "向上"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/向上_1.png\">",
+                "text": "向上_1"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/向上_2.png\">",
+                "text": "向上_2"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/向上_3.png\">",
+                "text": "向上_3"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/向上_4.png\">",
+                "text": "向上_4"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/向上_5.png\">",
+                "text": "向上_5"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/向下.png\">",
+                "text": "向下"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/向下_1.png\">",
+                "text": "向下_1"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/向下_2.png\">",
+                "text": "向下_2"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/向下_3.png\">",
+                "text": "向下_3"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/向下_4.png\">",
+                "text": "向下_4"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/向下_5.png\">",
+                "text": "向下_5"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/来呀.png\">",
+                "text": "来呀"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/来呀_1.png\">",
+                "text": "来呀_1"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/来呀_2.png\">",
+                "text": "来呀_2"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/来呀_3.png\">",
+                "text": "来呀_3"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/来呀_4.png\">",
+                "text": "来呀_4"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/来呀_5.png\">",
+                "text": "来呀_5"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/一点点.png\">",
+                "text": "一点点"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/一点点_1.png\">",
+                "text": "一点点_1"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/一点点_2.png\">",
+                "text": "一点点_2"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/一点点_3.png\">",
+                "text": "一点点_3"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/一点点_4.png\">",
+                "text": "一点点_4"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/一点点_5.png\">",
+                "text": "一点点_5"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/捏住.png\">",
+                "text": "捏住"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/捏住_1.png\">",
+                "text": "捏住_1"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/捏住_2.png\">",
+                "text": "捏住_2"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/捏住_3.png\">",
+                "text": "捏住_3"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/捏住_4.png\">",
+                "text": "捏住_4"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/捏住_5.png\">",
+                "text": "捏住_5"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/比心.png\">",
+                "text": "比心"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/比心_1.png\">",
+                "text": "比心_1"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/比心_2.png\">",
+                "text": "比心_2"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/比心_3.png\">",
+                "text": "比心_3"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/比心_4.png\">",
+                "text": "比心_4"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/比心_5.png\">",
+                "text": "比心_5"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/送花花.png\">",
+                "text": "送花花"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/送花花_1.png\">",
+                "text": "送花花_1"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/送花花_2.png\">",
+                "text": "送花花_2"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/送花花_3.png\">",
+                "text": "送花花_3"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/送花花_4.png\">",
+                "text": "送花花_4"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/送花花_5.png\">",
+                "text": "送花花_5"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/加油干.png\">",
+                "text": "加油干"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/加油干_1.png\">",
+                "text": "加油干_1"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/加油干_2.png\">",
+                "text": "加油干_2"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/加油干_3.png\">",
+                "text": "加油干_3"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/加油干_4.png\">",
+                "text": "加油干_4"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/加油干_5.png\">",
+                "text": "加油干_5"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/调皮.png\">",
+                "text": "调皮"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/大笑.png\">",
+                "text": "大笑"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/惊讶.png\">",
+                "text": "惊讶"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/流汗.png\">",
+                "text": "流汗"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/广播.png\">",
+                "text": "广播"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/自信.png\">",
+                "text": "自信"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/你强.png\">",
+                "text": "你强"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/怒吼.png\">",
+                "text": "怒吼"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/惊愕.png\">",
+                "text": "惊愕"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/疑问.png\">",
+                "text": "疑问"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/偷笑.png\">",
+                "text": "偷笑"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/无聊.png\">",
+                "text": "无聊"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/加油.png\">",
+                "text": "加油"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/快哭了.png\">",
+                "text": "快哭了"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/吐.png\">",
+                "text": "吐"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/晕.png\">",
+                "text": "晕"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/摸摸.png\">",
+                "text": "摸摸"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/飞吻.png\">",
+                "text": "飞吻"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/跳舞.png\">",
+                "text": "跳舞"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/鄙视.png\">",
+                "text": "鄙视"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/嘘.png\">",
+                "text": "嘘"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/思考.png\">",
+                "text": "思考"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/亲亲.png\">",
+                "text": "亲亲"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/无奈.png\">",
+                "text": "无奈"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/感冒.png\">",
+                "text": "感冒"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/对不起.png\">",
+                "text": "对不起"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/再见.png\">",
+                "text": "再见"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/投降.png\">",
+                "text": "投降"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/哼.png\">",
+                "text": "哼"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/欠扁.png\">",
+                "text": "欠扁"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/拜托.png\">",
+                "text": "拜托"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/可怜.png\">",
+                "text": "可怜"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/舒服.png\">",
+                "text": "舒服"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/爱意.png\">",
+                "text": "爱意"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/财迷.png\">",
+                "text": "财迷"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/迷惑.png\">",
+                "text": "迷惑"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/委屈.png\">",
+                "text": "委屈"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/灵感.png\">",
+                "text": "灵感"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/天使.png\">",
+                "text": "天使"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/鬼脸.png\">",
+                "text": "鬼脸"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/凄凉.png\">",
+                "text": "凄凉"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/郁闷.png\">",
+                "text": "郁闷"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/坏笑.png\">",
+                "text": "坏笑"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/算账.png\">",
+                "text": "算账"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/PK.png\">",
+                "text": "PK"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/忍者.png\">",
+                "text": "忍者"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/衰.png\">",
+                "text": "衰"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/炸弹.png\">",
+                "text": "炸弹"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/笑哭.png\">",
+                "text": "笑哭"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/嘿嘿.png\">",
+                "text": "嘿嘿"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/捂脸哭.png\">",
+                "text": "捂脸哭"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/抠鼻.png\">",
+                "text": "抠鼻"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/流鼻血.png\">",
+                "text": "流鼻血"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/呲牙.png\">",
+                "text": "呲牙"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/吃瓜.png\">",
+                "text": "吃瓜"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/彩虹.png\">",
+                "text": "彩虹"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/耶.png\">",
+                "text": "耶"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/发怒.png\">",
+                "text": "发怒"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/捂眼睛.png\">",
+                "text": "捂眼睛"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/推眼镜.png\">",
+                "text": "推眼镜"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/暗中观察.png\">",
+                "text": "暗中观察"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/脑暴.png\">",
+                "text": "脑暴"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/冷笑.png\">",
+                "text": "冷笑"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/热.png\">",
+                "text": "热"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/开心.png\">",
+                "text": "开心"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/惊喜.png\">",
+                "text": "惊喜"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/回头.png\">",
+                "text": "回头"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/白眼.png\">",
+                "text": "白眼"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/一团乱麻.png\">",
+                "text": "一团乱麻"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/黑眼圈.png\">",
+                "text": "黑眼圈"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/裂开.png\">",
+                "text": "裂开"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/恭喜.png\">",
+                "text": "恭喜"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/费解.png\">",
+                "text": "费解"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/收到.png\">",
+                "text": "收到"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/快来.png\">",
+                "text": "快来"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/敲打.png\">",
+                "text": "敲打"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/捧脸.png\">",
+                "text": "捧脸"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/Get.png\">",
+                "text": "Get"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/客服.png\">",
+                "text": "客服"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/AR.png\">",
+                "text": "AR"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/OMG.png\">",
+                "text": "OMG"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/夯爆了.png\">",
+                "text": "夯爆了"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/拉完了.png\">",
+                "text": "拉完了"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/还得是你.png\">",
+                "text": "还得是你"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/嘻嘻.png\">",
+                "text": "嘻嘻"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/不嘻嘻.png\">",
+                "text": "不嘻嘻"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/蒜鸟.png\">",
+                "text": "蒜鸟"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/小丑是我.png\">",
+                "text": "小丑是我"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/小蜜蜂.png\">",
+                "text": "小蜜蜂"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/虎虎生威.png\">",
+                "text": "虎虎生威"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/兔飞猛进.png\">",
+                "text": "兔飞猛进"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/龙头老大.png\">",
+                "text": "龙头老大"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/蛇来运转.png\">",
+                "text": "蛇来运转"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/马上来财.png\">",
+                "text": "马上来财"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/专注.png\">",
+                "text": "专注"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/忙疯了.png\">",
+                "text": "忙疯了"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/等一等.png\">",
+                "text": "等一等"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/一脸苦笑.png\">",
+                "text": "一脸苦笑"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/王之蔑视.png\">",
+                "text": "王之蔑视"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/洪荒之力.png\">",
+                "text": "洪荒之力"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/向左看.png\">",
+                "text": "向左看"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/向右看.png\">",
+                "text": "向右看"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/YYDS.png\">",
+                "text": "YYDS"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/这边请.png\">",
+                "text": "这边请"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/弹射下班.png\">",
+                "text": "弹射下班"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/退退退.png\">",
+                "text": "退退退"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/在吗.png\">",
+                "text": "在吗"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/让人头大.png\">",
+                "text": "让人头大"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/摊手.png\">",
+                "text": "摊手"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/抱抱.png\">",
+                "text": "抱抱"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/举手.png\">",
+                "text": "举手"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/开车.png\">",
+                "text": "开车"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/抱大腿.png\">",
+                "text": "抱大腿"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/跪了.png\">",
+                "text": "跪了"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/鞠躬.png\">",
+                "text": "鞠躬"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/选我.png\">",
+                "text": "选我"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/元气满满.png\">",
+                "text": "元气满满"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/会议.png\">",
+                "text": "会议"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/猫咪.png\">",
+                "text": "猫咪"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/二哈.png\">",
+                "text": "二哈"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/狗子.png\">",
+                "text": "狗子"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/三多.png\">",
+                "text": "三多"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/承让.png\">",
+                "text": "承让"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/撒花.png\">",
+                "text": "撒花"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/礼物.png\">",
+                "text": "礼物"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/生日快乐.png\">",
+                "text": "生日快乐"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/爱心.png\">",
+                "text": "爱心"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/心碎.png\">",
+                "text": "心碎"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/嘴唇.png\">",
+                "text": "嘴唇"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/鲜花.png\">",
+                "text": "鲜花"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/残花.png\">",
+                "text": "残花"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/干杯.png\">",
+                "text": "干杯"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/咖啡.png\">",
+                "text": "咖啡"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/奶茶.png\">",
+                "text": "奶茶"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/茶.png\">",
+                "text": "茶"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/OKR.png\">",
+                "text": "OKR"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/KPI.png\">",
+                "text": "KPI"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/100分.png\">",
+                "text": "100分"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/对勾.png\">",
+                "text": "对勾"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/打叉.png\">",
+                "text": "打叉"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/气泡.png\">",
+                "text": "气泡"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/加一.png\">",
+                "text": "加一"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/Done.png\">",
+                "text": "Done"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/钉子.png\">",
+                "text": "钉子"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/出差.png\">",
+                "text": "出差"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/高铁.png\">",
+                "text": "高铁"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/火箭.png\">",
+                "text": "火箭"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/邮件.png\">",
+                "text": "邮件"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/文档.png\">",
+                "text": "文档"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/演示.png\">",
+                "text": "演示"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/表格.png\">",
+                "text": "表格"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/废纸篓.png\">",
+                "text": "废纸篓"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/手机.png\">",
+                "text": "手机"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/时间.png\">",
+                "text": "时间"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/静音.png\">",
+                "text": "静音"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/公文包.png\">",
+                "text": "公文包"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/地球.png\">",
+                "text": "地球"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/碳减排.png\">",
+                "text": "碳减排"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/回收标志.png\">",
+                "text": "回收标志"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/幼苗.png\">",
+                "text": "幼苗"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/红包.png\">",
+                "text": "红包"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/锦鲤.png\">",
+                "text": "锦鲤"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/福.png\">",
+                "text": "福"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/灯笼.png\">",
+                "text": "灯笼"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/爆竹.png\">",
+                "text": "爆竹"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/烟花.png\">",
+                "text": "烟花"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/恭喜发财.png\">",
+                "text": "恭喜发财"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/月饼.png\">",
+                "text": "月饼"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/鸡腿.png\">",
+                "text": "鸡腿"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/休假.png\">",
+                "text": "休假"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/火.png\">",
+                "text": "火"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/点赞.png\">",
+                "text": "点赞"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/点赞_1.png\">",
+                "text": "点赞_1"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/点赞_2.png\">",
+                "text": "点赞_2"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/点赞_3.png\">",
+                "text": "点赞_3"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/点赞_4.png\">",
+                "text": "点赞_4"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/点赞_5.png\">",
+                "text": "点赞_5"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/平安健康.png\">",
+                "text": "平安健康"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/定胜.png\">",
+                "text": "定胜"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/正在内测.png\">",
+                "text": "正在内测"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/保住绿码.png\">",
+                "text": "保住绿码"
+            },
+            {
+                "icon": "<img src=\"//cdn.jsdmirror.com/gh/Augenstern-O/Stickers/DingTalk/魔法棒.png\">",
+                "text": "魔法棒"
             }
         ]
     }
